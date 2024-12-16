@@ -10,8 +10,8 @@ on:
       - v*
 
 permissions:
-  contents: write   # Required to create releases
-  id-token: write   # Needed for creating releases with GitHub Actions
+  contents: write # Required to create releases
+  id-token: write # Needed for creating releases with GitHub Actions
 
 jobs:
   release-helm-release:
