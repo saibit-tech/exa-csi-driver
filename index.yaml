@@ -3,6 +3,16 @@ entries:
   exa-csi:
   - apiVersion: v2
     appVersion: 2.2.6
+    created: "2024-12-16T17:57:39.076493799Z"
+    description: A Helm chart for ExaScaler CSI file driver.
+    digest: 9e1f543e957e0cc5732fb47a0b23a9e7c453ffcd6f0d7bb957682bab1c0ba1f9
+    name: exa-csi
+    type: application
+    urls:
+    - https://github.com/saibit-tech/exa-csi-driver/releases/download/exa-csi-0.2.0-rev3/exa-csi-0.2.0-rev3.tgz
+    version: 0.2.0-rev3
+  - apiVersion: v2
+    appVersion: 2.2.6
     created: "2024-12-16T16:46:04.901737454Z"
     description: A Helm chart for ExaScaler CSI file driver.
     digest: 6024775b6e0082bb25152cb63407ae4202ce1c8a6986b4e2e0ac5aa61af57819
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/saibit-tech/exa-csi-driver/releases/download/exa-csi-0.2.0-rev2/exa-csi-0.2.0-rev2.tgz
     version: 0.2.0-rev2
-generated: "2024-12-16T16:46:04.901747893Z"
+generated: "2024-12-16T17:57:39.076508426Z"
